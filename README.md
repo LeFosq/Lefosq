@@ -1,9 +1,9 @@
 ### Hi there 👋
 ## I'm a Brazilian Telecom Engineering student from Universidade de Brasília (UnB), i actually use this profile to gather some of my codes
 🖥️Languages that i already had contact: Python,C++,C,Assembly and VHDL
-Contato: 
-[Linkedin](https://www.linkedin.com/in/luiz-fernando-28aa5417a/)
-[Email](mailto:luizfernandoap90@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+Contato: \n
+[Linkedin](https://www.linkedin.com/in/luiz-fernando-28aa5417a/)\n
+[Email](mailto:luizfernandoap90@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)\n
 <!--
 **LeFosq/Lefosq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
