@@ -1,4 +1,4 @@
-### Hi there 👋
+<style>p{color:Blue;}</style>
 ## I'm a Brazilian Telecom Engineering student from Universidade de Brasília (UnB), i actually use this profile to gather some of my codes
 🖥️Languages that i already had contact: Python,C++,C,Assembly and VHDL
 Contato: <br>
