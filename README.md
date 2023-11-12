@@ -1,6 +1,6 @@
 
 ## I'm a Brazilian Telecom Engineering student from Universidade de Brasília (UnB), i actually use this profile to gather some of my codes
-🖥️Languages that i already had contact: Python,C++,C,Assembly and VHDL
+🖥️Languages that i already had contact: Python,C++,C,Assembly and VHDL <br>
 Contato: <br>
 [Linkedin](https://www.linkedin.com/in/luiz-fernando-28aa5417a/)<br>
 [Email](mailto:luizfernandoap90@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)<br>
