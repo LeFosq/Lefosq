@@ -1,5 +1,7 @@
-### Hello 👋
-### I'm a Telecom Engineering student, 
+### Hi there 👋
+## I'm a Brazilian Telecom Engineering student from Universidade de Brasília (UnB), i actually use this profile to gather some of my codes
+#🖥️Languages that i already had contact: Python,C++,C,Assembly and VHDL
+#Contato: [Linkedin](https://www.linkedin.com/in/luiz-fernando-28aa5417a/) < a href="mailto:luizfernandoap90@mgial.com">Luiz Fernando< /a>
 <!--
 **LeFosq/Lefosq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
